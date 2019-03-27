@@ -1,4 +1,4 @@
-package sample;
+package data;
 
 public class Student {
     private int id;
